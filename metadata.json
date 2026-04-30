@@ -1,6 +1,11 @@
 {
   "name": "Wankmi",
   "symbol": "WANK",
-  "description": "The official token of WANKMI",
-  "image": "https://raw.githubusercontent.com/davidmansion/wankmi-metadata/refs/heads/main/logo.png" 
+  "description": "The official token of Wankmi powering $WANK.",
+  "image": "https://raw.githubusercontent.com/davidmansion/wankmi-metadata/refs/heads/main/logo.png",
+  "website": "https://wankmi.com/",
+  "dapp": "https://dapp.wankmi.com/",
+  "telegram": "https://t.me/WANKMI",
+  "twitter/x": "https://x.com/wankmicoin",
+  "supply": "1000000"
 }
